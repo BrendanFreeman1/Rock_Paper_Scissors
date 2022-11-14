@@ -2,7 +2,7 @@
 <a href="https://brendanfreeman1.github.io/Rock_Paper_Scissors/"> Live Preview </a>
 <p>A Rock Paper Scissors Javascript game</p>
 
-<p>This web page was created to practice Web development and design.</p>
+<p>This is my first web page created to practice Web development and design.</p>
 
 <h2>Built With</h2>
 <h3>Languages</h3>
