@@ -22,18 +22,18 @@
 
 <h2>Goals and Outcome</h2>
 <ul>
- <li>Integrating Javascript into a webpage</li>
- <li>Linking to and manipulating DOM elements in Javascript</li>
+ <li>Integrating JavaScript into a webpage</li>
+ <li>Linking to and manipulating DOM elements in JavaScript</li>
  <li>Utilising FlexBox to layout elements on a webpage</li>
 </ul>
 
 <h2>What I learned</h2>
 <ul>
- <li>Structuring JS code in a single file</li>
+ <li>Structuring JavaScript code in a single file</li>
  <li>Designing code for readability</li>
  <li>Designing code for optimal code flow</li>
  <li>Effectively layering HTML elements to work with FlexBox</li>
- <li>The difficulty of minimizing global variables in JS</li> 
+ <li>The difficulty of minimizing global variables in JavaScript</li> 
 </ul>
 
 <h2>Author</h2>
