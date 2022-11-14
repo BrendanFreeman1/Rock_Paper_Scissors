@@ -1,0 +1,154 @@
+/*===================
+         All
+===================*/
+@font-face {
+  font-family: Roboto;
+  src: url(../../Fonts/Roboto/Roboto-Regular.ttf);
+}
+
+body {
+  color:#F9FAF8;
+  background-color: #141b25;
+  font-family: Roboto, normal;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/*===================
+     Nav banner
+===================*/
+.nav_bar {
+  height: 72px;
+  background-color: #141b25;
+  width: 100vmax;
+  position:fixed;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/*The links*/
+.nav_link {
+  display: block;
+  font-size: 18px;
+  padding: 20px;
+  color: #3882f6;
+}
+
+.nav_link:hover {
+  color: white;
+  background-color: #2e4352;
+  font-weight: bold;
+}
+
+/*===================
+     Title Banner
+===================*/
+.rps_title {
+  background-color: #505050;
+  padding: 64px;
+  padding-top: 136px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0px 10px 10px #1a1a1a;
+}
+
+.rps_titles_text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+  text-shadow: 10px 10px 5px #1a1a1a;
+  margin: 0;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/*===================
+      Game Info
+===================*/
+
+p, h2{
+  margin: 5px;
+}
+
+.gameScores {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.startText {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: auto;
+}
+
+.selectionText {
+  font-size: 80px;
+  margin:auto;
+}
+
+.roundWinnerText {
+  font-size: 30px;
+  margin:auto;
+}
+
+/*===================
+     Game Cards
+===================*/
+
+.gameCards{
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+}
+
+.icons{
+  width: 600px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+button {
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-width: 5px;
+  width: 110px;
+  height: 160px;
+  border-radius: 10px;
+}
+
+button:hover {
+  border-color: #3882f6;
+}
+
+/*===================
+        Footer
+===================*/
+.footer {
+  height: 72px;
+  background-color: #505050;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: auto;
+}
+
+.nav_img {
+  width: 40px;
+  height: 40px;
+  padding: 0px 3px;
+}
