@@ -25,8 +25,6 @@
  <li>Integrating Javascript into a webpage</li>
  <li>Linking to and manipulating DOM elements in Javascript</li>
  <li>Utilising FlexBox to layout elements on a webpage</li>
- <li></li>
- <li></li>
 </ul>
 
 <h2>What I learned</h2>
@@ -36,7 +34,6 @@
  <li>Designing code for optimal code flow</li>
  <li>Effectively layering HTML elements to work with FlexBox</li>
  <li>The difficulty of minimizing global variables in JS</li> 
- <li></li>
 </ul>
 
 <h2>Author</h2>
